@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Judul HTML</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Judul Halaman</h1>
+        <nav>
+            <ul>
+                <li><a href="https://www.contohlink.com">Nama Web/Link</a></li>
+                <li><a href="https://www.contohlink.com">Nama Web/Link</a></li>
+                <li><a href="https://www.contohlink.com">Nama Web/Link</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Subjudul</h2>
+            <p>Isi konten</p>
+        </section>
+
+        <section>
+            <h2>Subjudul</h2>
+            <p>Isi konten</p>
+        </section>
+    </main>
+
+    <footer>
+        <p> Hak Cipta &copy; Tahun - Nama
+    </footer>
+</body>
+</html>
